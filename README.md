@@ -12,9 +12,9 @@
  
  🔭 I’m currently studying at **SMK Negeri 46 Jakarta**
  
- 🌱 I’m currently learning **Dart, Laravel, MySQL **
+ 🌱 I’m currently learning **Dart, Laravel, MySQL**
 
-💬 Ask me about **Tailwind, PHP, Figma UI/UX Design ... **
+💬 Ask me about **Tailwind, PHP, Figma UI/UX Design ...**
 
 
 
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://dimmm.my.id" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,flutter,vscode,github,figma,tailwind," />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,nextjs,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,flutter,vscode,github,figma,tailwind,javascript" />
+    
 </div>
 
 <br>
