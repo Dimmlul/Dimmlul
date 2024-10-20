@@ -16,7 +16,7 @@
 
  </div>
  
- <div class="center"> 
+ <div align="center"> 
         <a href="https://dimmm.my.id" target="_blank">
             <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" alt="Portfolio" />
         </a>
