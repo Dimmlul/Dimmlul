@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Dart, Laravel, MySQL**
 
-💬 Ask me about **Tailwind, PHP, Figma UI/UX Design ...**
+💬 Ask me about **Tailwind, Flutter, Figma Design**
 
 
 
@@ -22,9 +22,6 @@
 <div align="center"> 
   <a href="mailto:dimaspradiptam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://dimmm.my.id" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
