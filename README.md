@@ -15,7 +15,7 @@
 💬 Ask me about **Tailwind, Flutter, Figma Design**
 
  </div>
- 
+ <div center > 
   <a href="https://dimmm.my.id" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
