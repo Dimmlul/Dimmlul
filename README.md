@@ -16,12 +16,7 @@
 
  </div>
  
- <div align="center"> 
-        <a href="https://dimmm.my.id" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" alt="Portfolio" />
-        </a>
-    </div>
- <hr/>
+
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
