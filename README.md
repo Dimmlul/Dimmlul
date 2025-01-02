@@ -27,15 +27,15 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php&theme=dark" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,laravel,flutter&theme=light" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,laravel,flutter&theme=dark" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,figma,notion&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,notion&theme=dark" />
 </div>
 
 
